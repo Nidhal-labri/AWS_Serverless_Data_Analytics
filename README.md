@@ -1,4 +1,4 @@
-<img width="2668" height="789" alt="Blank diagram - Page 1 (2)" src="https://github.com/user-attachments/assets/4d33632e-828e-4afe-b411-2cbb29cf3bd3" /># 🚀 AWS Project: Cloud-Native Data Analytics Workflow
+# 🚀 AWS Project: Cloud-Native Data Analytics Workflow
 **Building a Serverless Data Pipeline for Spotify Music Insights**
 
 This project demonstrates how I’ve built a fully cloud-native data engineering pipeline to analyze Spotify music data using AWS services.
